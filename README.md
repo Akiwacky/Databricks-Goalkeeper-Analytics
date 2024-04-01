@@ -14,7 +14,7 @@ The first step was to establish the metrics or statistics that best evaluate a g
 
 ## Data Collection
 
-With the criteria set, the next phase was data collection. For robust and reliable football statistics, Fbref stands out as a premier source. Utilizing Python, I extracted relevant data from Fbref and saved it to a CSV file, ready for analysis in Databricks. The process of extracting this data is detailed in a [repository](XXX).
+With the criteria set, the next phase was data collection. For robust and reliable football statistics, Fbref stands out as a premier source. Utilizing Python, I extracted relevant data from Fbref and saved it to a CSV file, ready for analysis in Databricks. The process of extracting this data is detailed in a [Github](https://github.com/Akiwacky/Scraping-Fbref).
 
 ## Cleaning and Preparing Data
 
